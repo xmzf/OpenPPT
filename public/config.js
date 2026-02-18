@@ -5,4 +5,4 @@ window._PROCESS_IMAGE = true        //AI绘图：绘图模型
 /**
  * 核心配置：用于选择是否启动相关AI模型功能，可以在www.yoo-ai.com中进行创建与配置
  */
-window._APPKEYTOKEN = ''
+window._APPKEYTOKEN = 'Yoo-AI.10122.7SFNtyebEgrBEV53FxVX6rqFrdBfsHAb.Y5upbgZHdq3nJDwyCfSqdkGfV2XScKqM/p5vm92kaKyx6QvQ9tKcRN6Mr2A2tEBeH.1771394048.0'
